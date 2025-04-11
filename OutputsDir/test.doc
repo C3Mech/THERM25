@@ -1,0 +1,118 @@
+ SPECIES
+ CNH2
+Thermo estimation for molecule
+ CNH2                                                    C4H11O3N
+UNITS:   K,kcal  -  NONLINEAR SPECIE
+GROUPS   5
+	Gr	#	Group ID	Quantity
+	  	1	-	C/C/H3 	-	1
+	  	2	-	O/C2  	-	3
+	  	3	-	C/H2/O2	-	2
+	  	4	-	C/H2/N/O	-	1
+	  	5	-	N/C/H2 	-	1
+ Hf    S     CP300 CP400 CP500 CP600 CP800 CP1000 CP1500
+-119.68 110.28 37.35 43.82 50.27 55.98 66.00 73.51  83.71 
+		CPINF = 105.45
+Number of rotors:	7
+Symmetry:	3
+Creation date:	11/04/2025
+ENDSPECIES
+
+
+ SPECIES
+ CNH2-1
+Thermo estimation for radical
+ CNH2-1                                                    C4H10O3N
+ RADICAL BASED UPON PARENT NO
+ PARENT FORMULA                         NO
+PARENT SYMMETRY
+UNITS:   K,kcal  -  NONLINEAR SPECIE
+GROUPS   6
+	Gr	#	Group ID	Quantity
+	  	1	-	C/C/H3 	-	1
+	  	2	-	O/C2  	-	3
+	  	3	-	C/H2/O2	-	2
+	  	4	-	C/H2/N/O	-	1
+	  	5	-	N/C/H2 	-	1
+	  	6	-	RCJOC 	-	1
+ Hf    S     CP300 CP400 CP500 CP600 CP800 CP1000 CP1500
+-76.82 112.31 37.17 43.14 49.00 54.10 63.10 69.88  79.79 
+		CPINF = 99.75
+Number of rotors:	7
+Symmetry:	3
+R ln(2) has been added to S to account
+      for unpaired electron
+BOND DISS  
+Creation date:	11/04/2025
+ENDSPECIES
+
+
+ SPECIES
+ CNH2-2
+Thermo estimation for radical
+ CNH2-2                                                    C4H10O3N
+ RADICAL BASED UPON PARENT NO
+ PARENT FORMULA                         NO
+PARENT SYMMETRY
+UNITS:   K,kcal  -  NONLINEAR SPECIE
+GROUPS   6
+	Gr	#	Group ID	Quantity
+	  	1	-	C/C/H3 	-	1
+	  	2	-	O/C2  	-	3
+	  	3	-	C/H2/O2	-	2
+	  	4	-	C/H2/N/O	-	1
+	  	5	-	N/C/H2 	-	1
+	  	6	-	RCJOC 	-	1
+ Hf    S     CP300 CP400 CP500 CP600 CP800 CP1000 CP1500
+-76.82 112.31 37.17 43.14 49.00 54.10 63.10 69.88  79.79 
+		CPINF = 99.75
+Number of rotors:	7
+Symmetry:	3
+R ln(2) has been added to S to account
+      for unpaired electron
+BOND DISS  
+Creation date:	11/04/2025
+ENDSPECIES
+
+
+ SPECIES
+ C2H6
+Thermo estimation for molecule
+ C2H6                                                    C2H6
+UNITS:   K,kcal  -  NONLINEAR SPECIE
+GROUPS   1
+	Gr	#	Group ID	Quantity
+	  	1	-	C/C/H3 	-	2
+ Hf    S     CP300 CP400 CP500 CP600 CP800 CP1000 CP1500
+-20.32 54.82 12.02 15.36 18.48 21.02 25.38 28.90  34.56 
+		CPINF = 42.75
+Number of rotors:	1
+Symmetry:	18
+Creation date:	11/04/2025
+ENDSPECIES
+
+
+ SPECIES
+ C2H5
+Thermo estimation for radical
+ C2H5                                                    C2H5
+ RADICAL BASED UPON PARENT C2H6
+ PARENT FORMULA                         C2H6
+PARENT SYMMETRY
+UNITS:   K,kcal  -  NONLINEAR SPECIE
+GROUPS   2
+	Gr	#	Group ID	Quantity
+	  	1	-	C/C/H3 	-	2
+	  	2	-	C2H5  	-	1
+ Hf    S     CP300 CP400 CP500 CP600 CP800 CP1000 CP1500
+ 28.68 59.16 11.85 14.79 17.21 19.36 22.96 25.76  30.27 
+		CPINF = 37.05
+Number of rotors:	1
+Symmetry:	6
+R ln(2) has been added to S to account
+      for unpaired electron
+BOND DISS  
+Creation date:	11/04/2025
+ENDSPECIES
+
+
